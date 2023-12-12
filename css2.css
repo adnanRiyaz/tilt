@@ -1,0 +1,16 @@
+.fa-brands{
+    font-size: 29px;
+    color: white;
+    filter: invert(13%);
+    transition: all 0.2s;
+}
+.fa-brands:hover{
+    color: orangered;
+    transform: scale(1.5);
+
+}
+
+
+span{
+    padding: 2px 13px;
+}
